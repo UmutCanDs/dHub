@@ -4,4 +4,6 @@ elseif game.PlaceId == 6608498361 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/UmutCanDs/dHub/main/6608498361"))()
 elseif game.PlaceId == 6654918151 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/UmutCanDs/dHub/main/6654918151"))()
+  elseif game.PlaceId == 4913581664 then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/UmutCanDs/dHub/main/4913581664"))()
 end
