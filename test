@@ -1,0 +1,10 @@
+
+scriptcmds = {
+    ["testcom1"] =  function()
+
+    end,
+    
+    ["testcom1"] =  function()
+        
+    end,
+}
